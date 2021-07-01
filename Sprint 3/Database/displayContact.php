@@ -1,6 +1,6 @@
 <!---The display.php and displayContact.php under 
 the Database are additional files for the database. 
-Its purpose is to display the data from the database to the owner. --->
+Its purpose is to display the data from the database to the owner/team. --->
 
 <?php
     include 'DBConnector.php';
