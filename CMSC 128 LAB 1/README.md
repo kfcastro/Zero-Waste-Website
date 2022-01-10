@@ -2,6 +2,7 @@ Welcome to CMSC 128 Laboratory Activities
 
 
 -------- Links --------
+
 Lab 1 :
 Youtube :
 
