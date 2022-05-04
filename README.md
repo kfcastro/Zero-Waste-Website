@@ -1,11 +1,10 @@
 # Zero-Waste-Website
 CMSC 126: Web Engineering Project
 
-___
+***
 
 Zero Waste Website is a non-profit website for Client.
 
-___
 
 **Objectives:**
 * To reach a wide range of audience for the advocacy.
