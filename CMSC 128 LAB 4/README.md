@@ -1,4 +1,4 @@
-Lab 4
+Lab 4: UML (Sequence Diagram) for Zero Waste Website
 ------------------------------------------------
 Youtube Link: https://youtu.be/B1qh0d9FwjE
 
